@@ -2,4 +2,4 @@
 
 This repository contains all R code used to generate plots, tables and statistics in this article, which is published ...
 
-All figures, except Supplemental Figures 1, 7 and 9, can be reproduced using this code.
+All figures, except Supplemental Figures 6A and 7, can be generated using this code.
